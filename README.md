@@ -15,7 +15,7 @@
 
 <h2> Outline: </h2>
 I. <b>Understanding our data</b><br>
-a) [Gather Sense of our data](#gather)<br><br>
+a) /kaggle/input/creditcardfraud <br><br>
 
 II. <b>Preprocessing</b><br>
 a) [Scaling and Distributing](#distributing)<br>
